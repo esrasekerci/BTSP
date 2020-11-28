@@ -1,5 +1,5 @@
-//1. Collect values
-//2. Apply formula { assg*0.2 + midterm*0.3 + finalexam*0.5}
+//1. Collect values {using JOptionPane}
+//2. Apply formula { av.assg*0.2 + midterm*0.3 + finalexam*0.5}
 //3. Display result
 package gradecalc;
 
