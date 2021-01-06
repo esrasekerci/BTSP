@@ -1,4 +1,12 @@
-
+/*
+1 - Ekrandan bir tane pozitif tamsayı alacaksınız, bu sayı 𝒏 ile gösterelim. (5 puan)
+2 - Uzunluğu 𝒏 olan bir tane tamsayı dizisi tanımlayacaksınız ve bu dizinin içini [−𝟐𝟓, 𝟐𝟓] aralığından (-25
+ve 25 dahil) rastgele tamsayılar seçerek dolduracaksınız. (25 puan)
+3 - Diziye sayıları atadıktan sonra ekrana dizi elemanlarını sayılar arasında birer boşluk bırakarak yan yana
+bastıracaksınız. (10 puan)
+Bu işlemleri yaptıktan sonra ekrana dizinin en büyük negatif sayısını ekrana basacaksınız. Eğer dizide
+negatif sayı yoksa bu durumda seçilen sayıyı 0 gibi kabul edeceksiniz. (60 puan)
+ */ 
 import java.util.Scanner;
 import java.util.Random;
 
