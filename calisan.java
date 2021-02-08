@@ -41,7 +41,7 @@ public class calisan {
     public void setSicilNo(long n) {
 
         if (n < 0) {
-            throw new RuntimeException("Hata: Negatif satisTutari");
+            throw new RuntimeException("Hata: Negatif sicilNo");
         }
         sicilNo = n;
     }
@@ -57,7 +57,7 @@ public class calisan {
     public void setPrim(double n) {
 
         if (n < 0) {
-            throw new RuntimeException("Hata: Negatif satisTutari");
+            throw new RuntimeException("Hata: Negatif prim");
         }
         prim = n;
     }
